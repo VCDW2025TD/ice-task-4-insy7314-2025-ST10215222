@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\secureblog-backend",
+    "\\secureblog-backend\\controllers",
+    "\\secureblog-backend\\middleware",
+    "\\secureblog-backend\\routes",
+    "\\secureblog-backend\\scr"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}

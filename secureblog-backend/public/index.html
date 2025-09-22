@@ -1,0 +1,7 @@
+<!-- Inline script (should be blocked) -->
+<script>
+  console.log("Inline script should be blocked by CSP.");
+</script>
+
+<!-- External CDN script (should be blocked) -->
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
